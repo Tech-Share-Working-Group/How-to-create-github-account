@@ -31,3 +31,20 @@ githubアカウント作成方法手順です。
 
 ---
 
+# 4. 確認コードの入力
+入力したメールに8桁の確認コードが届きます。
+そちらを入力してください。
+</br></br>
+※スマホからだとうまく入力できないことがあるので、8桁のコードをコピーして、一番左の入力欄にペーストするとうまく入力できるかと思います。
+</br>
+入力できなければ、PCからおねがいいたします。
+
+---
+
+# 5. ログイン
+[githubにログイン](https://github.com/login)
+
+# 6. 2要素認証のおねがい
+下記を参考に、SMSもしくは「Google Authenticator」で2要素認証の設定をしてください。
+</br></br>
+[参考](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
