@@ -47,7 +47,8 @@ githubアカウント作成方法手順です。
 # 6. 2要素認証のおねがい
 下記を参考に、SMSもしくは「Google Authenticator」で2要素認証の設定をしてください。
 </br></br>
-[参考](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+[2要素認証を設定する](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+- 「TOTPアプリを使って 2要素認証を設定する」の部分
 
 </br>
 
