@@ -48,3 +48,10 @@ githubアカウント作成方法手順です。
 下記を参考に、SMSもしくは「Google Authenticator」で2要素認証の設定をしてください。
 </br></br>
 [参考](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+
+</br>
+
+# 7. アカウントIDの設定
+アカウントのアイコンを押し、「settings」にアクセスしてください。
+「Account」タブの「Change username」項目の「Change username」ボタンを押下して、アカウントIDを設定してください。</br>
+※アカウントIDは「TSWG-社員番号」にしてください。
