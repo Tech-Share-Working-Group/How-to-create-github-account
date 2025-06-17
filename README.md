@@ -55,3 +55,8 @@ githubアカウント作成方法手順です。
 アカウントのアイコンを押し、「settings」にアクセスしてください。
 「Account」タブの「Change username」項目の「Change username」ボタンを押下して、アカウントIDを設定してください。</br>
 ※アカウントIDは「TSWG-社員番号」にしてください。
+</br>
+また下記も参考にしてください。
+</br></br>
+[GitHub ユーザ名の変更](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/changing-your-github-username)
+- 「ユーザー名を変化する」の部分
