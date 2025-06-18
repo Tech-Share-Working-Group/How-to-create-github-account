@@ -1,6 +1,8 @@
 # How-to-create-github-account
 githubアカウント作成方法手順です。
 
+あｓ
+
 </br>
 
 # 1. 下記のアカウント作成画面にアクセス
