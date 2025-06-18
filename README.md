@@ -1,35 +1,43 @@
 # How-to-create-github-account
 githubアカウント作成方法手順です。
 
+</br>
+
 # 1. 下記にアクセル
 下記でgithubのアカウントを作成できます。</br>
 [github sign up](https://github.com/signup)
 
----
+</br>
 
 # 2. 下記を入力
+
 ## 2-1. 会社用のメールアドレスを入力
 「b23a0253@〜」のアドレスを入力してください。
+
 </br>
 
 ## 2-2. passwordを入力
+できるだけ複雑なパスワードを作成してください。
+
 </br>
 
 ## 2-3. usernameを入力
 「TSWG-b23a0253」の様な名前にしてください。
+
 </br>
 
 ## 2-4. 「Your Coutry/Region」
 「日本」でいいです。
-</br>
 
----
+</br>
 
 # 3. ロボットではないかの確認
-視覚パズルなど、ロボットではないかの確認がされます。
+
 </br>
 
----
+視覚パズルなど、ロボットではないかの確認がされます。
+
+</br>
 
 # 4. 確認コードの入力
 入力したメールに8桁の確認コードが届きます。
@@ -39,10 +47,12 @@ githubアカウント作成方法手順です。
 </br>
 入力できなければ、PCからおねがいいたします。
 
----
+</br>
 
 # 5. ログイン
 [githubにログイン](https://github.com/login)
+
+</br>
 
 # 6. 2要素認証のおねがい
 下記を参考に、SMSもしくは「Google Authenticator」で2要素認証の設定をしてください。
@@ -60,4 +70,4 @@ githubアカウント作成方法手順です。
 また下記も参考にしてください。
 </br></br>
 [GitHub ユーザ名の変更](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/changing-your-github-username)
-- 「ユーザー名を変化する」の部分
+- 「ユーザ名を変更する」の部分
