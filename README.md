@@ -3,7 +3,7 @@ githubアカウント作成方法手順です。
 
 </br>
 
-# 1. 下記にアクセル
+# 1. 下記のアカウント作成画面にアクセス
 下記でgithubのアカウントを作成できます。</br>
 [github sign up](https://github.com/signup)
 
@@ -49,7 +49,7 @@ githubアカウント作成方法手順です。
 
 </br>
 
-# 5. ログイン
+# 5. 作成したアカウントでログイン
 [githubにログイン](https://github.com/login)
 
 </br>
