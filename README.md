@@ -1,37 +1,39 @@
-# How-to-create-github-account
-githubアカウント作成方法手順です。
+# 1. 作成者について
+| id | 作成日 | 一言コメント |
+| ---- | ---- | ---- |
+| [b23a0253](https://github.com/TSWG-b23a0253) | 2025/06/14 |  |
 
 </br>
 
-# 1. 下記のアカウント作成画面にアクセス
+# 2. 下記のアカウント作成画面にアクセス
 下記でgithubのアカウントを作成できます。</br>
 [github sign up](https://github.com/signup)
 
 </br>
 
-# 2. 下記を入力
+# 3. 下記を入力
 
-## 2-1. 会社用のメールアドレスを入力
+## 3-1. 会社用のメールアドレスを入力
 「b23a0253@〜」のアドレスを入力してください。
 
 </br>
 
-## 2-2. passwordを入力
+## 3-2. passwordを入力
 できるだけ複雑なパスワードを作成してください。
 
 </br>
 
-## 2-3. usernameを入力
+## 3-3. usernameを入力
 「TSWG-b23a0253」の様な名前にしてください。
 
 </br>
 
-## 2-4. 「Your Coutry/Region」
+## 3-4. 「Your Coutry/Region」
 「日本」でいいです。
 
 </br>
 
-# 3. ロボットではないかの確認
+# 4. ロボットではないかの確認
 
 </br>
 
@@ -39,7 +41,7 @@ githubアカウント作成方法手順です。
 
 </br>
 
-# 4. 確認コードの入力
+# 5. 確認コードの入力
 入力したメールに8桁の確認コードが届きます。
 そちらを入力してください。
 </br></br>
@@ -49,12 +51,12 @@ githubアカウント作成方法手順です。
 
 </br>
 
-# 5. 作成したアカウントでログイン
+# 6. 作成したアカウントでログイン
 [githubにログイン](https://github.com/login)
 
 </br>
 
-# 6. 2要素認証のおねがい
+# 7. 2要素認証のおねがい
 下記を参考に、SMSもしくは「Google Authenticator」で2要素認証の設定をしてください。
 </br></br>
 [2要素認証を設定する](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
@@ -62,7 +64,7 @@ githubアカウント作成方法手順です。
 
 </br>
 
-# 7. アカウントIDの設定
+# 8. アカウントIDの設定
 アカウントのアイコンを押し、「settings」にアクセスしてください。
 「Account」タブの「Change username」項目の「Change username」ボタンを押下して、アカウントIDを設定してください。</br>
 ※アカウントIDは「TSWG-社員番号」にしてください。
