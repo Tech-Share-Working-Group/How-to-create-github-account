@@ -55,7 +55,7 @@
 </br></br>
 
 # 7. 2要素認証のおねがい
-下記を参考に、「Google Authenticator」で2要素認証の設定をしてください。
+下記を参考に、2要素認証の設定をしてください。
 - 社給スマホ：[TOTPアプリを使って 2要素認証を設定する](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication#configuring-two-factor-authentication-using-a-totp-app)
 - 私用スマホ：[GitHub Mobile を使った 2 要素認証の構成](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication#github-mobile-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F-2-%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC%E3%81%AE%E6%A7%8B%E6%88%90)
 
@@ -64,5 +64,5 @@
 # 8. アカウントIDの設定
 アカウントのアイコンを押し、「settings」にアクセスしてください。</br>
 「Account」タブの「Change username」項目の「Change username」ボタンを押下して、アカウントIDを設定してください。</br>
-※アカウントIDは「TSWG-社員番号」にしてください。
+※アカウントIDは「bから始まる社員番号」にしてください。
 - [ユーザ名を変更する](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/changing-your-github-username#changing-your-username)
