@@ -9,6 +9,10 @@
 下記でgithubのアカウントを作成できます。</br>
 [github sign up](https://github.com/signup)
 
+※画面例
+
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/e7533164-389a-42c3-99f2-4310a2be6623" />
+
 </br></br>
 
 # 3. 下記を入力
@@ -16,20 +20,28 @@
 ## 3-1. メールアドレスを設定
 社用、もしくは私用のメールアドレスを入力してください。
 
+<img width="691" height="154" alt="image" src="https://github.com/user-attachments/assets/b567d90a-be67-4f68-9354-57d94116c6b2" />
+
 </br>
 
 ## 3-2. passwordを入力
 できるだけ複雑なパスワードを作成してください。
+
+<img width="592" height="184" alt="image" src="https://github.com/user-attachments/assets/007eddba-83ca-442c-b934-bba807504c39" />
 
 </br>
 
 ## 3-3. usernameを入力
 「bから始まる社員番号」の名前にしてください。
 
+<img width="634" height="158" alt="image" src="https://github.com/user-attachments/assets/e05409a2-a6de-475a-ae7c-a2f9d39c3053" />
+
 </br>
 
 ## 3-4. 「Your Coutry/Region」
-「日本」でいいです。
+「Japan」でいいです。
+
+<img width="592" height="163" alt="image" src="https://github.com/user-attachments/assets/bb5f08b3-e940-43a5-b671-3147cd53158b" />
 
 </br></br>
 
@@ -54,7 +66,7 @@
 
 </br></br>
 
-# 7. 2要素認証のおねがい
+# 7. 「2要素認証」のおねがい
 下記を参考に、2要素認証の設定をしてください。
 - 社給スマホ：[TOTPアプリを使って 2要素認証を設定する](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication#configuring-two-factor-authentication-using-a-totp-app)
 - 私用スマホ：[GitHub Mobile を使った 2 要素認証の構成](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication#github-mobile-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F-2-%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC%E3%81%AE%E6%A7%8B%E6%88%90)
@@ -66,3 +78,5 @@
 「Account」タブの「Change username」項目の「Change username」ボタンを押下して、アカウントIDを設定してください。</br>
 ※アカウントIDは「bから始まる社員番号」にしてください。
 - [ユーザ名を変更する](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/changing-your-github-username#changing-your-username)
+
+</br></br>
