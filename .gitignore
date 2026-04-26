@@ -1,0 +1,20 @@
+*:[Zz]one.Identifier
+
+# Java
+*.class
+src/classes/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# logs
+*.log
+
+# Eclipse
+.project
+.classpath
+.settings/
