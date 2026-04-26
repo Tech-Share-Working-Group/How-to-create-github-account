@@ -1,3 +1,13 @@
+/bin/
+/target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.factorypath
+
+# Windows
 *:[Zz]one.Identifier
 
 # Java
@@ -13,8 +23,3 @@ src/classes/
 
 # logs
 *.log
-
-# Eclipse
-.project
-.classpath
-.settings/
